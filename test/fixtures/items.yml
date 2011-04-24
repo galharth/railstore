@@ -1,0 +1,25 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  title: MyString
+  desc: MyText
+  tags: MyText
+  download: MyString
+  thumbnail: MyString
+  image_preview: MyString
+  link_preview: MyString
+  price: 1
+  gems_included: MyString
+  date: 2011-04-24
+
+two:
+  title: MyString
+  desc: MyText
+  tags: MyText
+  download: MyString
+  thumbnail: MyString
+  image_preview: MyString
+  link_preview: MyString
+  price: 1
+  gems_included: MyString
+  date: 2011-04-24

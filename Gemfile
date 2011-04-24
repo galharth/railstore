@@ -9,7 +9,7 @@ gem 'rails', '3.0.6'
 gem 'omniauth'
 gem 'sqlite3'
 
-# Use unicorn as the web server
+# gem "nokogiri", "1.4.4"# Use unicorn as the web server
 # gem 'unicorn'
 
 # Deploy with Capistrano
@@ -21,7 +21,6 @@ gem 'sqlite3'
 
 # Bundle the extra gems:
 # gem 'bj'
-# gem 'nokogiri'
 # gem 'sqlite3-ruby', :require => 'sqlite3'
 # gem 'aws-s3', :require => 'aws/s3'
 
