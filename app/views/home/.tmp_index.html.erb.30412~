@@ -4,4 +4,7 @@
 <% else %>
   <%= link_to "Sign in with Twitter", "/auth/twitter" %>
 <% end %>
+<<<<<<< HEAD
 Is it working?
+=======
+>>>>>>> 6da39881c135bb608cd3cebc3de2f17bf88f98a3
