@@ -5,4 +5,4 @@
   <%= link_to "Sign in with Twitter", "/auth/twitter" %>
 <% end %>
 
-I am very cool.
+Gal
